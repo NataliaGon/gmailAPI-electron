@@ -1,0 +1,39 @@
+{
+    "statusCode": 200,
+    "body": "{\n \"drafts\": [\n  {\n   \"id\": \"r5306555245869901331\",\n   \"message\": {\n    \"id\": \"169d8f03b0f49e1e\",\n    \"threadId\": \"169d8f014cac558c\"\n   }\n  },\n  {\n   \"id\": \"r9181597075218008912\",\n   \"message\": {\n    \"id\": \"1691ee30a7e71e8b\",\n    \"threadId\": \"1691ee2f77deab41\"\n   }\n  },\n  {\n   \"id\": \"r5138432569902636965\",\n   \"message\": {\n    \"id\": \"168a5f6e7a8f98f8\",\n    \"threadId\": \"168a5f6ca31f4451\"\n   }\n  },\n  {\n   \"id\": \"s:7401816959242121632\",\n   \"message\": {\n    \"id\": \"164083c0d2ff177a\",\n    \"threadId\": \"164083c0d2ff177a\"\n   }\n  }\n ],\n \"resultSizeEstimate\": 4\n}\n",
+    "headers": {
+        "expires": "Tue, 02 Apr 2019 08:56:24 GMT",
+        "date": "Tue, 02 Apr 2019 08:56:24 GMT",
+        "cache-control": "private, max-age=0, must-revalidate, no-transform",
+        "etag": "\"LZWdHVzsAG0UZhymZBdpM9j7eJQ/qbprbfQ0oI0W1oQ1U0s7GiP3e2A\"",
+        "vary": "Origin, X-Origin",
+        "content-type": "application/json; charset=UTF-8",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block",
+        "content-length": "558",
+        "server": "GSE",
+        "alt-svc": "quic=\":443\"; ma=2592000; v=\"46,44,43,39\"",
+        "connection": "close"
+    },
+    "request": {
+        "uri": {
+            "protocol": "https:",
+            "slashes": true,
+            "auth": null,
+            "host": "www.googleapis.com",
+            "port": 443,
+            "hostname": "www.googleapis.com",
+            "hash": null,
+            "search": null,
+            "query": null,
+            "pathname": "/gmail/v1/users/enotzp@gmail.com/drafts",
+            "path": "/gmail/v1/users/enotzp@gmail.com/drafts",
+            "href": "https://www.googleapis.com/gmail/v1/users/enotzp@gmail.com/drafts"
+        },
+        "method": "GET",
+        "headers": {
+            "authorization": "Bearer ya29.GlzfBi6uljooZIEcWXT76SLOeTZvVp6pEe0zJ4KCp1YK7kfmIecjhIYIRpqzwvje-pa4dn8i5XJTPfzqlQ7Hua-7URNcC5Qli0WeAb1fKPl7FuZWKhMJ-as6IrvGNA"
+        }
+    }
+}
